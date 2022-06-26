@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Mar 18 17:34:45 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-017f-9cea-75f7-00000bf01050 
+on database directory memory:C:\Users\meghp\eclipse-workspace1\Student\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/meghp/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_192-b12
+user.dir=C:\Users\meghp\eclipse-workspace1\Student
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
